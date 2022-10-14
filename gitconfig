@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = danielsantos.wd@gmail.com
+	name = Daniel Santos
